@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# I'm currently learning in
+## The Odin Project
+### It takes time but I hope its worth it.
 <!--
 **khin16/khin16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
